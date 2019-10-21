@@ -1,0 +1,4 @@
+# Created at 2019-10-20T20:06:11.097
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Eclipse\Exercises\workspace_new\flightsbooking_profiles\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

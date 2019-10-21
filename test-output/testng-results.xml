@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="71" started-at="2019-10-20T12:53:09Z" finished-at="2019-10-20T12:53:09Z">
+    <groups>
+      <group name="bikes">
+        <method signature="TestNG_Grouping.testHondaCBR()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testHondaCBR" class="com.expedia.flightsbooking_profiles.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.testNinja()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testNinja" class="com.expedia.flightsbooking_profiles.TestNG_Grouping"/>
+      </group> <!-- bikes -->
+      <group name="car">
+        <method signature="TestNG_Grouping.testAudiA6()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testAudiA6" class="com.expedia.flightsbooking_profiles.TestNG_Grouping"/>
+        <method signature="TestNG_Grouping.testBMWX6()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testBMWX6" class="com.expedia.flightsbooking_profiles.TestNG_Grouping"/>
+      </group> <!-- car -->
+      <group name="suv">
+        <method signature="TestNG_Grouping.testBMWX6()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testBMWX6" class="com.expedia.flightsbooking_profiles.TestNG_Grouping"/>
+      </group> <!-- suv -->
+      <group name="sedan">
+        <method signature="TestNG_Grouping.testAudiA6()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testAudiA6" class="com.expedia.flightsbooking_profiles.TestNG_Grouping"/>
+      </group> <!-- sedan -->
+    </groups>
+    <test name="Groups" duration-ms="71" started-at="2019-10-20T12:53:09Z" finished-at="2019-10-20T12:53:09Z">
+      <class name="com.expedia.flightsbooking_profiles.TestNG_Grouping">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="setUp" is-config="true" duration-ms="12" started-at="2019-10-20T12:53:09Z" finished-at="2019-10-20T12:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAudiA6()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testAudiA6" duration-ms="19" started-at="2019-10-20T12:53:09Z" finished-at="2019-10-20T12:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAudiA6 -->
+        <test-method status="PASS" signature="testBMWX6()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testBMWX6" duration-ms="2" started-at="2019-10-20T12:53:09Z" finished-at="2019-10-20T12:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBMWX6 -->
+        <test-method status="PASS" signature="testHondaCBR()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testHondaCBR" duration-ms="2" started-at="2019-10-20T12:53:09Z" finished-at="2019-10-20T12:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHondaCBR -->
+        <test-method status="PASS" signature="testNinja()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="testNinja" duration-ms="1" started-at="2019-10-20T12:53:09Z" finished-at="2019-10-20T12:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNinja -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.expedia.flightsbooking_profiles.TestNG_Grouping@1d057a39]" name="cleanUp" is-config="true" duration-ms="1" started-at="2019-10-20T12:53:09Z" finished-at="2019-10-20T12:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.expedia.flightsbooking_profiles.TestNG_Grouping -->
+    </test> <!-- Groups -->
+  </suite> <!-- TestSuite -->
+</testng-results>
